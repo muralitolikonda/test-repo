@@ -1,1 +1,3 @@
 Hi, i am learning git now and also i am clear now how to login with the ssh key and i have set up the ssh key in github and configured the private key in config file in .ssh folder and created the new folder and initialised it and pushing the file into the git repository.
+
+Adding new changes as per the new update
